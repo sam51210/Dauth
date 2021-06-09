@@ -1,6 +1,6 @@
 background: linear-gradient(90deg, #159b9e 0%, #a81e1e 30%, #2313bd 100%);
 
-/* .title {
+.title {
 text-align: center;
 font-size: 40;
 
@@ -9,4 +9,8 @@ font-size: 40;
 .small {
 font-size: 2;
 
-} */
+}
+
+.to_con {
+  font-size: 10;
+  text-align: center;
